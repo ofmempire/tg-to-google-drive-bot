@@ -1,0 +1,21 @@
+{
+  "name": "tg-to-google-drive-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js",
+    "auth": "node auth-server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "google-auth-library": "^9.9.0",
+    "googleapis": "^136.0.0",
+    "node-fetch": "^3.3.2",
+    "open": "^10.1.0",
+    "telegraf": "^4.16.3"
+  }
+}
