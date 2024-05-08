@@ -76,6 +76,8 @@ CLIENT_SECRET=your_client_secret_here
 
 REDIRECT_URI=http://localhost:3000/oauth2callback
 
+REFRESH_TOKEN=1//92DFSDFH82384F8J...
+
 DEBUG=TRUE // or FALSE if you prefer less verbose logs
 ```
 ### Run the Auth Server:
